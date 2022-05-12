@@ -15,8 +15,8 @@
 <h2>🔗 &nbsp;Connect with me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/changminshin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the             badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/toute.la.vie__min/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+  <a href="https://www.linkedin.com/in/changminshin" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the             badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/toute.la.vie__min/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 
 </p>  
   
