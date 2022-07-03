@@ -32,7 +32,6 @@
 <h3>Things I code for Mobile with</h3>
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-E34F26?style=flat-square&logo=Flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-F7B93E?style=flat-square&logo=Dart&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=dart&logoColor=white" />
   <img alt="OOP" src="https://img.shields.io/badge/-OOP-2088FF?style=flat-square&logo=oop&logoColor=white" />
   <img alt="Get X" src="https://img.shields.io/badge/-GetX-764ABC?style=flat-square&logo=getx&logoColor=white" />
