@@ -4,10 +4,7 @@
 
 
 <p>
-🔭 I’m currently looking for Front End Developer Position
-</p>
-<p>
- 🌱 I’m currently learning Flutter, Dart
+🔭 I’m currently working as Mobile App Developer
 </p>
 
 
